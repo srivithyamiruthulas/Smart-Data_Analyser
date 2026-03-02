@@ -1,0 +1,27 @@
+Upload CSV File,output 0,output 1,output 2,output 3,timestamp
+.gradio\flagged\Upload CSV File\9a19f96af0e9bb7195dc\used_cars_data.csv,"             S.No.         Year  Kilometers_Driven        Seats        Price
+count  7253.000000  7253.000000       7.253000e+03  7200.000000  6019.000000
+mean   3626.000000  2013.365366       5.869906e+04     5.279722     9.479468
+std    2093.905084     3.254421       8.442772e+04     0.811660    11.187917
+min       0.000000  1996.000000       1.710000e+02     0.000000     0.440000
+25%    1813.000000  2011.000000       3.400000e+04     5.000000     3.500000
+50%    3626.000000  2014.000000       5.341600e+04     5.000000     5.640000
+75%    5439.000000  2016.000000       7.300000e+04     5.000000     9.950000
+max    7252.000000  2019.000000       6.500000e+06    10.000000   160.000000","S.No.                   0
+Name                    0
+Location                0
+Year                    0
+Kilometers_Driven       0
+Fuel_Type               0
+Transmission            0
+Owner_Type              0
+Mileage                 2
+Engine                 46
+Power                  46
+Seats                  53
+New_Price            6247
+Price                1234",.gradio\flagged\output 2\a42d6566fa35fa3abcd9\plot.png,"'
+Dataset contains 7253 rows and 14 columns.
+Highly correlated features may influence predictions.
+Handle missing values before training ML models.
+",2026-03-02 14:20:48.066932
